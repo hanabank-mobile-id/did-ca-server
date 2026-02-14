@@ -240,3 +240,4 @@ sketch
 # Ignore all local history of files
 .history
 .ionide
+source/did-ca-server/src/main/resources/static/

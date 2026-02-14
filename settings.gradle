@@ -1,0 +1,6 @@
+rootProject.name = 'root-project' 
+
+// 하위 프로젝트 포함
+include 'did-ca-server'
+
+project(':did-ca-server').projectDir = file('@source/did-ca-server')
